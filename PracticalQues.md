@@ -51,11 +51,11 @@
 50. // create a nested object with a method, change the nested value, convert the array elements into multiples of 2, rename a key, call the method(48)
 51. // Given a string find the most repeated character(49)
 52. //  from the array of numbers find the differece between the total sum and digit sum after cinverting every numbers to single digits and adding it (50)
-53. 
-54. 
-55. 
-56. 
-57. 
+53. // Implement currying for 3 argument function and  return the multiplied answer(51)
+54. // refer question number (52)
+55. // create a class and make two different instance and display the result of a funciton inside the class(53)
+56. // Take this word "diya williams" and convert to "Diya Williams"(54)
+57. // If only number return the number array from "[{}, 56, 7, "aiden", [], NaN]"(55)
 58. 
 59. 
 60. 
