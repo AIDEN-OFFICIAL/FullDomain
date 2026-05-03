@@ -19,18 +19,6 @@
 18. Variadic functions
 
 # Practical
-6. Print current time without date
-7. Date 15 days ago
-8. Tomorrow's date in DD-MM-YYYY format
-9. Print even numbers in reverse order
-10. Find non-repeating elements from array
-11. Remove duplicate even numbers from array
-12. Remove duplicates from string
-13. Find longest word/second longest word in sentence
-14. Find palindromic substring
-15. Find longest common prefix
-16. Convert first character to uppercase
-17. Convert nested array to flat array
 18. Convert nested object to flat
 19. Remove character from string
 20. Remove array element without built-in methods

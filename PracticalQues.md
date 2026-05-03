@@ -62,7 +62,23 @@
 61. Timer function to print 1-10 with intervals(59)
 62. Function to generate 6-digit random OTP (60)
 63. 
-
+64. 
+65. 
+66. 
+67. 
+68. 
+69. 
+70.  
+71.  
+72.  
+73.  
+74.  
+75.  
+76.  
+77.  
+78. 
+79. 
+80. 
 
 
 

@@ -6,3 +6,4 @@ function otpGen() {
 console.log(otpGen());
 console.log(otpGen());
 console.log(otpGen());
+
